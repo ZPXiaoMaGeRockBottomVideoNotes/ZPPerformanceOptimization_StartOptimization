@@ -1,0 +1,2 @@
+# ZPPerformanceOptimization_StartOptimization
+本Demo主要介绍了APP的冷启动和热启动，还介绍了如何添加环境变量来在控制台中打印出来APP的启动时间分析，还介绍了冷启动的三大阶段以及如何针对这三大阶段来进行启动优化。
